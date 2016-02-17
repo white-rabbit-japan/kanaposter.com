@@ -262,6 +262,32 @@ nav a:focus {
     margin: 0 auto;
     text-align: left;
     color: #fff;
+
+}
+
+.contact-container {
+    background-color: #3f3f3f;
+    color: #fff;
+    padding-bottom: 60px;
+}
+
+.contact-container h2 {
+    color: #fff;
+}
+
+.call-to-action-container {
+
+    background-color: #3f3f3f;
+}
+
+.single-feature-container.section-container-full-bg {
+
+    background-color: #3f3f3f;
+}
+
+.top-content {
+
+    background-color: #3f3f3f;
 }
 
 .inner-bg {
@@ -332,6 +358,7 @@ nav a:focus {
 .single-feature-box {
     margin-top: 30px;
     margin-bottom: 20px;
+
 }
 
 .single-feature-box .embed-responsive {
@@ -369,21 +396,6 @@ nav a:focus {
     text-align: center;
 }
 
-.single-feature-box-text-icon-alt {
-    float: left;
-    width: 60px;
-    height: 60px;
-    padding-top: 9px;
-    background: #158DA7;
-    -moz-border-radius: 6px;
-    -webkit-border-radius: 6px;
-    border-radius: 6px;
-    font-size: 40px;
-    color: #fff;
-    line-height: 40px;
-    text-align: center;
-}
-
 .single-feature-box-text-icon i {
     vertical-align: middle;
 }
@@ -397,6 +409,7 @@ nav a:focus {
 
 .section-container-full-bg .single-feature-box-text h3 {
     color: #fff;
+
 }
 
 .single-feature-box-text-description {
@@ -406,6 +419,7 @@ nav a:focus {
 
 .section-container-full-bg .single-feature-box-text-description {
     opacity: 0.8;
+
 }
 
 /***** Pricing *****/
