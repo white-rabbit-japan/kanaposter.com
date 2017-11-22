@@ -176,7 +176,7 @@ jQuery(document).ready(function() {
  */
 jQuery(window).load(function() {
   $(".loader-img").fadeOut();
-  $(".loader").delay(1000).fadeOut("slow", function() {
+  $(".loader").delay(300).fadeOut("slow", function() {
     // reload contact section background
     //$('.contact-container').backstretch("resize");
   });
